@@ -1,0 +1,46 @@
+body{
+    background-image:     url("https://wallpaperaccess.com/full/90279.jpg");
+    background-size: auto 100vh;
+    font-family: Bahnschrift;   
+  }
+  
+  
+  .menu{
+    background-color: lightgray;
+  }
+  
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  
+  .menu li {
+    list-style: square;  
+  }
+  
+  
+  a{
+    color: blue; 
+    text-decoration: none;
+  }
+  
+  
+  a:hover {
+    text-decoration: underline;
+    background-color: lightblue;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: blue;
+  }
+  
+  
+  .site-subtitle {
+    text-decoration: underline;
+  }
+  
+  
